@@ -1,5 +1,7 @@
-# M2_project2022
-This is a port of the very sophisticated DC Servomotor Controller SMC3 by Elm Chan for the ATmega328 as used with the popular Arduino Uno and Arduino Nano boards.
+DC SERVO MOTOR CONTROLLER
+
+
+This is a port of the very sophisticated DC Servomotor Controller SMC3 by Elm Chan for the ATmega328.
 
 It includes the results of a detailed analysis of the inner workings of the source code and (hopefully) more beginner-friendly explanation of the meaning of the control parameter and how to choose sensible values for the desired application.
 
